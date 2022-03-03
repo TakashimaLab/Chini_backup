@@ -1,5 +1,7 @@
 test readme file
 
-Add by Chini
+Add by X
 
-Add by Chini Tang
+Add by XXXX
+
+Add on Github
